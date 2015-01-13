@@ -1,0 +1,35 @@
+
+.main {
+	background-color: #f1f1f1;
+}
+
+.post_content,
+.post_title {
+	background-color: #fff;
+}
+
+.post_footer {
+	background-color: #F7F7F7;
+	padding: 20px 0;
+}
+
+h1 {
+	color: tomato;
+	background-color: #000;
+	text-align: center;
+}
+
+p {
+	color: steelblue;
+}
+
+ul {
+	text-align: center;
+}
+
+li {
+	list-style: none;
+	display: inline;
+	padding: 0 5px;
+	line-height: 0px;
+}
